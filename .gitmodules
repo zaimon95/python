@@ -1,0 +1,6 @@
+[submodule "python00"]
+	path = python00
+	url = git@github.com:zaimon95/python00.git
+[submodule "python01"]
+	path = python01
+	url = git@github.com:zaimon95/python01.git
