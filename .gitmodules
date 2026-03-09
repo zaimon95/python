@@ -7,6 +7,3 @@
 [submodule "python02"]
 	path = python02
 	url = git@github.com:zaimon95/python02.git
-[submodule "python03"]
-	path = python03
-	url = git@github.com:zaimon95/python03.git
