@@ -1,6 +1,6 @@
-from elements import create_fire               # absolute import (root-level module)
-from alchemy.potions import strength_potion    # absolute import (package module)
-from ..elements import create_air              # relative import (sibling via alchemy/)
+from elements import create_fire
+from alchemy.potions import strength_potion
+from ..elements import create_air
 
 
 def lead_to_gold() -> str:
