@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+
+
+def ft_plot_area() -> None:
+    length = int(input("Enter length: "))
+    width = int(input("Enter width: "))
+    area = length * width
+    print("Plot area: ", area)
+    """print(f"Plot area: {area}")"""
