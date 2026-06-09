@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8c2681-30f7-4dd2-8393-2069fdb2e725" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python05/ex0/data_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/python05/ex0/data_processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python07" beforeDir="false" afterPath="$PROJECT_DIR$/python07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python08" beforeDir="false" afterPath="$PROJECT_DIR$/python08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python09" beforeDir="false" afterPath="$PROJECT_DIR$/python09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python10" beforeDir="false" afterPath="$PROJECT_DIR$/python10" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python05" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python10" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -53,14 +58,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$FileDir$/$FileName$" />
-      <option name="PARAMETERS" value="1000000000000" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -91,6 +95,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.$FileName$" />
+      <item itemvalue="Python.ft_stream_management" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ft_stream_management" />

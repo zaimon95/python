@@ -9,5 +9,9 @@
     <mapping directory="$PROJECT_DIR$/python04" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python05" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python06" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python09" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python10" vcs="Git" />
   </component>
 </project>
